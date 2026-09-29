@@ -1,0 +1,17 @@
+<resources>
+        <string name="app_name">Consumo API Volley</string>
+
+        <!-- Menú Principal -->
+        <string name="tituloMenu">Consumo de APIs con Volley</string>
+        <string name="btnEjercicio">Ver Ejercicio (/todos)</string>
+        <string name="btnTarea">Ver Tarea (/posts + POO)</string>
+
+        <!-- Ejercicio -->
+        <string name="tvEjercicio">Listado de TODOS (API JSONPlaceholder)</string>
+
+        <!-- Tarea -->
+        <string name="tvTarea">Listado de POSTS (Orientado a Objetos)</string>
+
+        <!-- Comunes -->
+        <string name="cargando">Cargando...</string>
+</resources>
